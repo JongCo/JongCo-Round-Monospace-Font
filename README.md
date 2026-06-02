@@ -6,6 +6,13 @@
 
 정들어서 근가 나는 예쁜데
 
+
+## 한글도됨?
+
+아니요. ASCII영역만 있습니다. 알파벳 숫자 일부 기호만 사용 가능합니다.
+
+## 어디서받음?
+
 저기있는 JongCoRoundMono-Regular.otf 파일을 다운로드받아 사용하세요.
 
 아니면 그냥 링크 드리겠습니다. [폰트 다운로드](https://github.com/JongCo/JongCo-Round-Monospace-Font/releases/download/v0.41/JongCoRoundMono-Regular.otf)
